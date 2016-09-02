@@ -1,7 +1,0 @@
-﻿Ods产品线：
-	现在由于工作需要BDX的OCETL产品的源码（对应的发地址是	http://10.1.236.96:9700/OC_OCDT/cloudetl.git ）
-      麻烦帮忙创建git帐号并赋予下载源码的权限。
-
-	git账号为genghz，邮箱为genghz@asiainfo.com
-
-
